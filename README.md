@@ -1,6 +1,6 @@
 # coffee_splashscreen-Clone
 
-A new Flutter project.
+A new Flutter Splash Screen
 
 ## Getting Started
 
@@ -13,6 +13,16 @@ A new Flutter project.
  
 
 This project is a starting point for a Flutter application.
+
+
+##IDE   - #[Visual Studio Code](https://code.visualstudio.com/)
+##Framework - #[Flutter](https://flutter.dev/?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF5ePIRpfzW4OBpfT99vedlwR61IwHvL1Hhl_vSR1SP63tdulJWuDH4aAvt5EALw_wcB&gclsrc=aw.ds)
+##Emulator/SDK - #[Android Studio](https://developer.android.com/studio)
+
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
